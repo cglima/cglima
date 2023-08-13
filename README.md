@@ -1,4 +1,9 @@
-### Hi there 👋
+### Howdy!!👋
+---
+I´m Cassiana. I´m phD student of Biomedical Engineering at the Federal University of Uberlandia (UFU), Uberlândia, Minas Gerais, Brasil.
+---
+I´m currently learning python with data science and machine learning.
+
 
 <!--
 **cglima/cglima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
